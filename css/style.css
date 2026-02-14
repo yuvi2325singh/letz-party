@@ -65,7 +65,7 @@ button {
 
 /* mega menue */
 .services-box {
-    height: 464px;
+    height: 500px;
     background-color: #ffffff;
     display: flex;
     justify-content: space-between;
@@ -75,6 +75,7 @@ button {
 .mega {
     position: fixed;
     opacity: 0;
+    top: 180px;
     left: 0;
     right: 0;
     bottom: 0;
@@ -576,6 +577,13 @@ select {
 
 .blog-box {
     padding: 50px 100px;
+}
+
+.blog-box p {
+    font-size: 22px;
+    font-weight: 400;
+    color: #232323;
+    margin-bottom: 20px;
 }
 
 .item {
