@@ -82,7 +82,7 @@ button {
     border-top: 1px solid #000;
     transform: translatey(100%);
     background-color: #000;
-    transition: transform .5s ease-in-out;
+    transition: transform 0.5s ease-in-out;
 }
 
 .mega.active {
